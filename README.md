@@ -1,4 +1,4 @@
 PIL.example
 ===========
 
-how use PIL
+how use PIL (python library)
